@@ -1,0 +1,1 @@
+ /Users/marcelorodriguez/Desktop/Minimum\ Screenshot/minimum_screenshot/minimum_screenshot_crash/.dart_tool/flutter_build/5621ec86dfb39711da10e9b41c8d87bb/native_assets.yaml: 

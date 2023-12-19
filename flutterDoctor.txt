@@ -1,0 +1,12 @@
+Doctor summary (to see all details, run flutter doctor -v):
+[!] Flutter (Channel stable, 3.16.4, on macOS 14.2 23C64 darwin-arm64, locale en-UY)
+    ! Warning: `dart` on your path resolves to /opt/homebrew/Cellar/dart/3.1.5/libexec/bin/dart, which is not inside your current Flutter SDK checkout at /Users/marcelorodriguez/flutter. Consider adding /Users/marcelorodriguez/flutter/bin to the front of your path.
+[✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.1)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2022.3)
+[✓] VS Code (version 1.85.1)
+[✓] Connected device (3 available)
+[✓] Network resources
+
+! Doctor found issues in 1 category.
